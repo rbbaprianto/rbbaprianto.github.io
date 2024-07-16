@@ -1,8 +1,12 @@
 github_users:
   - rbbaprianto
   - masrobby
+  - thecupangin
 
 github_repos:
   - masrobby/OWrt-x86
   - masrobby/OpenWRT-x86_generic
   - rbbaprianto/rbbaprianto.github.io
+  - thecupangin/cupangOs-packages
+  - thecupangin/CupangOs-LEDE
+  - thecupangin/CupangOs-x86
