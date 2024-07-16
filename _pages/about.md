@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there, welcome to our About Us page! I'm [Robby Aprianto](https://linkedin.com/in/robebeye), and I've been tinkering with tech since my university days at Universitas Teknologi Digital Indonesia Yogyakarta, where I graduated back in 2017. After that, I dived straight into the industry, gaining experience at a couple of companies before landing at Huawei in 2020.
+Hey there, welcome to our About Us page! I'm [Robby Aprianto](https://www.linkedin.com/in/robebeye), and I've been tinkering with tech since my university days at Universitas Teknologi Digital Indonesia Yogyakarta, where I graduated back in 2017. After that, I dived straight into the industry, gaining experience at a couple of companies before landing at Huawei in 2020.
 
 At Huawei, I've had the opportunity to really flex my skills as a system engineer. From designing and implementing solutions to troubleshooting and maintenance, it's been a wild ride, and I've loved every minute of it. But let's rewind a bit - before Huawei, I cut my teeth at a couple of other tech firms, learning the ropes and getting a taste for what makes this industry tick.
 
