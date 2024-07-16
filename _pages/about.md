@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://linkedin.com/in/robebeye'>System Engineer, Huawei Tech Investment, Indonesia</a>
+subtitle: <a href='https://www.linkedin.com/in/robebeye'>System Engineer, Huawei Tech Investment, Indonesia</a>
 
 profile:
   align: center
